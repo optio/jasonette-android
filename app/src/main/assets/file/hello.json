@@ -68,6 +68,21 @@
                                 "font": "HelveticaNeue",
                                 "size": 20
                             },
+                            "text": "SOPMob",
+                            "href": {
+                                "url": "https://raw.githubusercontent.com/optio/sopmob/master/public/main.json",
+                                "fresh": true
+                            }
+                        },
+                        {
+                            "type": "label",
+                            "style": {
+                                "align": "right",
+                                "padding": 10,
+                                "color": "#000000",
+                                "font": "HelveticaNeue",
+                                "size": 20
+                            },
                             "text": "Check out Live DEMO",
                             "href": {
                                 "url": "https://raw.githubusercontent.com/jasonelle/docs/develop/examples/jasonette/apps/jasonpedia/demo.json",
